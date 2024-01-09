@@ -1,0 +1,30 @@
+body{
+  font-family: 'Playfair Display', serif;
+  
+}
+
+  .container-fluid .container{ 
+    padding-top: 10px; 
+    box-sizing: border-box;
+    justify-content: center;
+    font-weight: bold;
+    
+    
+  }
+  .container-fluid .content{
+    font-Size:1.3rem;
+    text-Align:left;
+    align-items: center;
+    padding-bottom: 0;
+    
+  }
+  .containers1{
+margin-top: -50px;
+margin-bottom: 20px;
+margin-left: 70px;
+    
+  }
+  
+
+ 
+  

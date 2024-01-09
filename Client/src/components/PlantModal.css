@@ -1,0 +1,46 @@
+/**Model**/
+.modal {
+    z-index: 9999;
+    /**z-index:1050**/
+    }
+    
+    .modal-title{
+        font-weight: bolder; 
+
+    }
+    button{
+        border: none;
+        
+    }
+    .modal-dialog {
+    position: relative;
+    top: 10%;
+    transform: translateY(-50%);
+    }
+          
+    .modal-footer {
+    border: none;
+    }
+    
+    .modal-header{
+    border:none;
+    }
+    
+    .modal-body .container img{
+    max-width: 800px;
+    width: 100%;
+    border-radius: 10px;
+    
+    }
+    
+    .modal-header .close {
+    background-color: transparent;
+    font-size: 2rem;
+    color: rgb(99, 235, 151);
+    }
+    .row{
+        font-weight: 100;
+        font-size: 1.5rem;
+        text-align: justify;
+        
+    }
